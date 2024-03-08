@@ -1,2 +1,8 @@
-StudentID = 1,Username = farzan,Password = farzan,CollegeID=1,Courses = 1/4/5/7/17/13
-StudentID = 2,Username = parsa,Password = parsa,CollegeID=1,Courses = 1/4/5/7/17/13
+1,farzan,farzan,1,1
+2,parsa,parsa,1,1
+3,sepehr,sepehr,2,4
+4,soroush,soroush,2,4
+5,maani,VIP,3,7
+6,erfan,erfan,3,7
+7,mehdi,mehdi,4,10
+8,foad,foad,4,10

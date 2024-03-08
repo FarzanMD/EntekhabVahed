@@ -1,1 +1,4 @@
-1,Riazi,1,1/2
+1,Math-Department,1/2/3,1/2
+2,Physic-Department,4/5/6,3/4
+3,Chemestry-Department,7/8/9,5/6
+4,Languages-Department,10/11/12,7/8

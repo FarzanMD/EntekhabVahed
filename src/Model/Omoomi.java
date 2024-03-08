@@ -1,7 +1,9 @@
 package Model;
 
+import java.util.List;
+
 public class Omoomi extends Course{
-    public Omoomi(String name, int courseID, int unit, String date, int startTime, int endTime, int courseCapacity, String teacherName, String examTime) {
-        super(name, courseID, unit, date, startTime, endTime, courseCapacity, teacherName, examTime);
+    public Omoomi(int ID, String name, int unit, int collegeID, String teacherName, String date1, String date2, int startTime, int endTime, List<Integer> courseStudents, String examDate, int examTime, int courseCapacity) {
+        super(ID, name, unit, collegeID, teacherName, date1, date2, startTime, endTime, courseStudents, examDate, examTime, courseCapacity);
     }
 }
